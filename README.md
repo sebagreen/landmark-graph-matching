@@ -1,4 +1,4 @@
-# Landmark graphs matching
+# Landmark graphs matching [![DOI](https://zenodo.org/badge/287533600.svg)](https://zenodo.org/badge/latestdoi/287533600)
 
 This repository contains a demo implementation of the ground-to-aerial viewpoint localization strategy proposed in the related paper [1] along with a set of annotated image pairs from CVUSA dataset [2]. 
 
