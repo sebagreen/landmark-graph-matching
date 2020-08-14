@@ -1,0 +1,10 @@
+84 110 Building
+132 95 Building
+1046 85 Building
+1177 117 Building
+35 214 Road
+574 189 Road
+1171 189 Road
+353 69 Tree
+729 90 Tree
+911 78 Tree

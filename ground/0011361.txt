@@ -1,0 +1,8 @@
+445 139 Building
+1112 185 Road
+1092 133 Road
+923 184 Road
+639 152 Road
+130 182 Road
+1054 137 Tree
+830 135 Tree

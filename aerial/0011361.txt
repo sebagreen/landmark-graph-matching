@@ -1,0 +1,20 @@
+303 360 Building
+385 165 Building
+444 77 Building
+362 36 Building
+263 507 Road
+380 413 Road
+440 491 Road
+500 546 Road
+560 600 Road
+620 665 Road
+680 732 Road
+362 248 Road
+334 148 Road
+297 48 Road
+455 459 Tree
+452 383 Tree
+444 320 Tree
+493 110 Tree
+500 66 Tree
+

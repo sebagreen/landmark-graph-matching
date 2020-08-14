@@ -1,0 +1,13 @@
+18 114 Building
+199 135 Building
+388 131 Building
+546 119 Building
+702 115 Building
+883 108 Building
+219 175 Pavement
+383 170 Pavement
+548 176 Pavement
+818 184 Pavement
+954 172 Pavement
+338 206 Road
+1152 186 Road

@@ -1,0 +1,10 @@
+498 121 Building
+735 117 Building
+1128 131 Building
+26 184 Road
+607 147 Road
+583 187 Road
+1222 179 Road
+298 97 Tree
+1016 84 Tree
+1170 97 Tree

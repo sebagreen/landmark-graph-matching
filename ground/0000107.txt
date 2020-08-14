@@ -1,0 +1,14 @@
+1117 146 Building
+1083 171 Pavement
+883 179 Road
+360 179 Road
+131 199 Road
+163 110 Tree
+290 108 Tree
+503 106 Tree
+652 93 Tree
+743 97 Tree
+848 115 Tree
+960 110 Tree
+1007 104 Tree
+1224 119 Tree
